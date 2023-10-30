@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.parent{
+    text-align: center;
+}
+
+.title{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 100px;
+}
+.icon{
+    height: 75px;
+}
+.move-button{
+    background-color: transparent;
+    border: 3px solid white;
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+    border-radius: 50%;
+    margin-right:30px ;
+}
+
+.result{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.score{
+    margin-top: 50px;
+}
+
+.reset{
+    background-color: white;
+    border: none;
+    font-size: 15px;
+    padding: 8px 15px;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.auto-play{
+    background-color: white;
+    border: none;
+    font-size: 15px;
+    padding: 8px 15px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
